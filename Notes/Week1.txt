@@ -1,0 +1,9 @@
+-> Understood basics of HTML, CSS and created landing page for VSCode.
+-> Learnt Javascript syntax and did some problem solving around it.
+
+
+TODO: 
+1. Create a landing page for Zerodha Platform.
+2. Read about some methods of arrays in js [filter, reduce etc.]
+
+

@@ -1,0 +1,1 @@
+Hi there, trying to read a file from b.txt
