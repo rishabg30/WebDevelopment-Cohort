@@ -9,7 +9,7 @@ setTimeout(runAfter, 10000);
 console.log("Hey, Good afternoon!");
 */
 
-/* One major thing to understand here is:
+/* One major thing to understand here is: CPU Intensive tasks [sync] vs IO [Async] tasks
  */
 
 console.log("Hey, starting execution of program");
